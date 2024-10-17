@@ -1,4 +1,5 @@
 # MLCourse-2324
+
 Material for the course "Big Data Science and Machine Learning" of the academic year 2023-2024 for the Graduate Program in Physics of the 
 University of Turin, held on Nov. 18-22, 2024. 
 
@@ -22,8 +23,8 @@ University of Turin, held on Nov. 18-22, 2024.
 ## Schedule:
 
 UPDATE
-- Nov 18th-22nd, for two hours/day, 10-12 - Aula Wataghin
-- The exam will be on June 22nd (but can be turned in up to June 30th)
+- Nov 18th-22nd, for two hours/day, 10-12 - Aula Wataghin (except for Nov. 19th when we'll be in Aula Fubini at 14:00-16:00)
+- The exam will be on Nov 25 (but can be turned in up to Dec 10th)
 
 
 ## Hands-on session
