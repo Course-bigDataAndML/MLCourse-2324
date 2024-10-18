@@ -22,8 +22,11 @@ University of Turin, held on Nov. 18-22, 2024.
 
 ## Schedule:
 
-UPDATE
-- Nov 18th-22nd, for two hours/day, 10-12 - Aula Wataghin (except for Nov. 19th when we'll be in Aula Fubini at 14:00-16:00)
+- Nov 18th, 10:00-12:00, Aula Wataghin
+- Nov 19th, 14:00-16:00, Aula Fubini
+- Nov 20th, 10:00-12:00, Aula Wataghin
+- Nov 21st, 10:00-12:00, Aula Wataghin 
+- Nov 22nd, 11:00-13:00, Aula Fubini
 - The exam will be on Nov 25 (but can be turned in up to Dec 10th)
 
 
